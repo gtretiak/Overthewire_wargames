@@ -6,7 +6,7 @@ Solutions, notes, and walkthroughs for OverTheWire wargames challenges - a colle
 
 OverTheWire offers wargames to help learn and practice security concepts in a fun game-like format. Each wargame focuses on different aspects of information security such as web exploitation, cryptography, reverse engineering, and general hacking techniques.
 
-## Repository Structure
+<!--## Repository Structure
 
 ```
 ├── bandit/          # Basic Linux commands and security concepts
@@ -19,9 +19,9 @@ OverTheWire offers wargames to help learn and practice security concepts in a fu
 ```
 
 ## Wargames Included
-
-- **Bandit** - Linux basics, command line, and fundamental security concepts
-- **Leviathan** - Introduction to binary exploitation
+-->
+**Bandit** - Linux basics, command line, and fundamental security concepts
+<!--- **Leviathan** - Introduction to binary exploitation
 - **Narnia** - Stack-based buffer overflows
 - **Behemoth** - Advanced exploitation techniques
 - **Utumno** - Complex binary challenges
@@ -33,7 +33,7 @@ Each directory contains:
 - `solutions.md` - Step-by-step walkthroughs
 - `notes.md` - Key concepts and learning points
 - `scripts/` - Helper scripts and exploits where applicable
-
+-->
 ## Educational Purpose
 
 This repository is for educational purposes only. The solutions are meant to help understand security concepts and improve problem-solving skills in cybersecurity.
